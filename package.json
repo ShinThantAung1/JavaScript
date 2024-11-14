@@ -1,0 +1,16 @@
+{
+  "name": "cilent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.3",
+    "node-fetch": "^3.3.2",
+    "readline-sync": "^1.4.10"
+  }
+}
